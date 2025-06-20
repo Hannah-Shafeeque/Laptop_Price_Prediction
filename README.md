@@ -41,7 +41,7 @@ The dataset contains various features of laptops such as:
     - Feature Engineering: PolynomialFeatures
     - Hyperparameter Tuning: GridSearchCV
 - **Web Interface**: Streamlit
-- **Environment**: Jupyter Notebook / VS Code
+- **Environment**: Google colab , VS Code
 
 ---
 
