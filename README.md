@@ -25,8 +25,14 @@ The dataset contains various features of laptops such as:
 - Screen Size
 - Graphics
 - Weight  
-(*Note: Dataset sourced from online laptop listings.*)
 
+project-root/
+│
+├── data/
+│   └── laptop_data.csv
+├── notebook.ipynb
+├── app.py
+└── README.md
 ---
 
 ## 🔧 Technologies & Tools Used
