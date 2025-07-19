@@ -26,14 +26,9 @@ The dataset contains various features of laptops such as:
 - Graphics
 - Weight  
 
-project-root/
-│
-├── data/
-│   └── laptop_data.csv
-├── notebook.ipynb
-├── app.py
-└── README.md
----
+---The dataset used in this project was sourced from Kaggle:
+🔗 https://drive.google.com/file/d/1uVLUxVS5RQXdeECcTbo0Xl2-x8eZ3HSt/view?usp=sharing
+
 
 ## 🔧 Technologies & Tools Used
 
