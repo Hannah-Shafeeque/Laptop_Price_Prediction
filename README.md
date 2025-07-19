@@ -26,7 +26,7 @@ The dataset contains various features of laptops such as:
 - Graphics
 - Weight  
 
----The dataset used in this project was sourced from Kaggle:
+The dataset used in this project was sourced from Kaggle:
 🔗 https://drive.google.com/file/d/1uVLUxVS5RQXdeECcTbo0Xl2-x8eZ3HSt/view?usp=sharing
 
 
